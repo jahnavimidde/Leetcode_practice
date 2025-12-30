@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0661-image-smoother](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
+| [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
+| [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
+| [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
