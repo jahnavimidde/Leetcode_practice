@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0697-degree-of-an-array) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
+| [1550-three-consecutive-odds](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1550-three-consecutive-odds) |
 | [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
