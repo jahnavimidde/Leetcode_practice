@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
