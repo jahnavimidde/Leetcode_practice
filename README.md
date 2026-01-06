@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
 ## Simulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
