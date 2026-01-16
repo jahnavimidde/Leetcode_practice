@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
