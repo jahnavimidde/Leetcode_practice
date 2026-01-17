@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0697-degree-of-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0771-jewels-and-stones) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0771-jewels-and-stones) |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
