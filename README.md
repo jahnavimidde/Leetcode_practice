@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
