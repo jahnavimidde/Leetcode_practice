@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0338-counting-bits) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0078-subsets) |
