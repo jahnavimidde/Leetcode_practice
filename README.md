@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
