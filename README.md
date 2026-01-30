@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1922-count-good-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1922-count-good-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
