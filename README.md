@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0697-degree-of-an-array) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0875-koko-eating-bananas) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1929-concatenation-of-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
