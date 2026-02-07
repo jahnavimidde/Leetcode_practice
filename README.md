@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0992-subarrays-with-k-different-integers) |
