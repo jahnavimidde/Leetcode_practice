@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1922-count-good-numbers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0557-reverse-words-in-a-string-iii) |
