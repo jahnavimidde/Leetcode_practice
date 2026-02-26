@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0992-subarrays-with-k-different-integers) |
