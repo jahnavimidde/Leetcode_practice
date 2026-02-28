@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3110-score-of-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
