@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
