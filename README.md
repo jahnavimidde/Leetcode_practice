@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 | [3110-score-of-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0216-combination-sum-iii) |
+| [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
