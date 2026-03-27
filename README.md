@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
