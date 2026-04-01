@@ -386,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
