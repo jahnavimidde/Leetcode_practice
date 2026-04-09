@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
