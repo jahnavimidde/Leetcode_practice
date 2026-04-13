@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 ## Concurrency
