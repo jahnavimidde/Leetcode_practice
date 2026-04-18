@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
