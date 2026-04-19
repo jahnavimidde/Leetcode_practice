@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -418,10 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
 ## Union-Find
 |  |
