@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0207-course-schedule) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0700-search-in-a-binary-search-tree) |
