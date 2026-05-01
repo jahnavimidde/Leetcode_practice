@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0289-game-of-life) |
+| [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0338-counting-bits) |
+| [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
