@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -456,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0155-min-stack) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
