@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0443-string-compression) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0148-sort-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0328-odd-even-linked-list) |
