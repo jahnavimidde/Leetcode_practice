@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0561-array-partition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Queue
 |  |
 | ------- |
