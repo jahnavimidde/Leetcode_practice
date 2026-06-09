@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
