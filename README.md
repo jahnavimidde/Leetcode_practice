@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2104-sum-of-subarray-ranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Concurrency
 |  |
 | ------- |
