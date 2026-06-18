@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0788-rotated-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1922-count-good-numbers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
