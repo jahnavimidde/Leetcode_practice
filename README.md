@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0383-ransom-note) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0179-largest-number) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0207-course-schedule) |
