@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
