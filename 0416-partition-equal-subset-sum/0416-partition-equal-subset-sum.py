@@ -5,13 +5,27 @@ class Solution(object):
         if total % 2 != 0:
             return False
 
-        target = total // 2
+        target_ = total // 2
 
-        dp = [False] * (target + 1)
-        dp[0] = True
+        prev = [False] * (target_ + 1)
+        prev[0]=True
+        if nums[0] <= target_:
+           prev[nums[0]] = True
+        
+        
 
-        for num in nums:
-            for j in range(target, num - 1, -1):
-                dp[j] = dp[j] or dp[j - num]
+        
+        for ind in range(1,len(nums)):
+            curr=[False]* (target_ + 1)
+            curr[0]=True
+            for target in range(1,target_+1):
+            
+                t=False
 
-        return dp[target]
+                if target>=nums[ind]: 
+                   t=prev[target-nums[ind]]
+                nt=prev[target]
+                curr[target]= nt or t
+            prev=curr
+        return prev[target_]
+                
