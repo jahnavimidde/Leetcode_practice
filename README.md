@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
