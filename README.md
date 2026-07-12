@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0542-01-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0788-rotated-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0788-rotated-digits) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 ## Sorting
