@@ -33,7 +33,8 @@ class Solution(object):
         # return -1 if ans``
 
 
-   
+        if len(coins)<0:
+            return 0
         if amount==0:
             return 1
         if len(coins)==1 and amount%coins[0]!=0:
@@ -41,33 +42,43 @@ class Solution(object):
         if len(coins)==1 and coins[0]>amount:
             return 0
         
-        def helper(ind,total,dp):
+      
             
             
-            if ind<0:
             
-                return 0
-            if total==0:
-                return 1
             
-            if ind==0 and total%coins[ind]==0:
-                dp[ind][total]=1
-                return 1
-            if dp[ind][total]!=-1:
-                return dp[ind][total]
-            nt=helper(ind-1,total,dp)
             
-            t=0
             
-                
-                
-            if coins[ind] <= total:
-              t=helper(ind,total-coins[ind],dp)
-            dp[ind][total]=nt+t
-            return nt+t
-        dp=[[-1 for _ in range(amount+1)] for _ in range(len(coins))]
-        ans=helper(len(coins)-1,amount,dp)
-        return ans
+            
+
+        prev=[-1 for _ in range(amount+1)] 
+        
+        for amount in range(amount+1):
+            if amount%coins[0]==0:
+                prev[amount]=1
+            elif amount==0:
+                prev[amount]=1
+            elif amount%coins[0]!=0:
+                prev[amount]=0
+            elif coins[0]>amount:
+                prev[amount]=0
+
+        for ind in range(1,len(coins)):
+            curr=[-1 for _ in range(amount+1)] 
+            curr[0]=1
+            for amount in range(amount+1):
+                nt=prev[amount]
+                t=0
+                if coins[ind]<=amount:
+                    t=curr[amount-coins[ind]]
+                curr[amount]=t+nt
+            prev=curr
+        return prev[amount]
+
+
+       
+
+        
 
         
         
