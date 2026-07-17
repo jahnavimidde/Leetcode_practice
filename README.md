@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -612,4 +616,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
