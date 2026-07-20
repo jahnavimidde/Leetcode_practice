@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1092-shortest-common-supersequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1092-shortest-common-supersequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
