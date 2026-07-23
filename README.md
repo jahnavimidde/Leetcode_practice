@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0119-pascals-triangle-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0127-word-ladder) |
