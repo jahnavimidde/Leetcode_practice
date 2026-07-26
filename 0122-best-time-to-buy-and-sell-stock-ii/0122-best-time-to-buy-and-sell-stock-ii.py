@@ -28,26 +28,63 @@ class Solution(object):
         # ans=helper(0,1,dp)
         # return ans
 
-        dp=[[-1 for _ in range(2)] for _ in range(len(prices)+1)]
-        dp[len(prices)][0]=0
-        dp[len(prices)][1]=0
-        take=0
-        nottake=0
-        sell=0
-        notsell=0
+
+
+
+
+#tabulation 
+        # dp=[[-1 for _ in range(2)] for _ in range(len(prices)+1)]
+        # dp[len(prices)][0]=0
+        # dp[len(prices)][1]=0
+        # take=0
+        # nottake=0
+        # sell=0
+        # notsell=0
+        # for i in range(len(prices)-1,-1,-1):
+        #     for j in range(1,-1,-1):
+        #         if j==1:
+        #             take=-prices[i]+dp[i+1][0]
+        #             nottake=dp[i+1][1]
+        #             profit=max(take,nottake)
+        #         else:
+        #             sell= prices[i]+dp[i+1][1]
+        #             notsell=dp[i+1][0]
+        #             profit=max(sell,notsell)
+        #         dp[i][j]=profit
+                
+        # return dp[0][1]
+
+
+
+        prev1=prev2=0
         for i in range(len(prices)-1,-1,-1):
+            curr1=curr2=0
             for j in range(1,-1,-1):
                 if j==1:
-                    take=-prices[i]+dp[i+1][0]
-                    nottake=dp[i+1][1]
+                    take=-prices[i]+prev1
+                    nottake=prev2
                     profit=max(take,nottake)
+                    curr2=profit
+                    
                 else:
-                    sell= prices[i]+dp[i+1][1]
-                    notsell=dp[i+1][0]
+                    sell= prices[i]+prev2
+                    notsell=prev1
                     profit=max(sell,notsell)
-                dp[i][j]=profit
+                    curr1=profit
+
+                    
                 
-        return dp[0][1]
+            prev1=curr1
+            prev2=curr2
+        return prev2
+
+
+
+
+
+
+
+
 
         
 
