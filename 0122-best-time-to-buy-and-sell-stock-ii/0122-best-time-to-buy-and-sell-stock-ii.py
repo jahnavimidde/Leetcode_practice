@@ -4,9 +4,28 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        s=0
-        for i in range(1,len(prices)):
-            if prices[i]>prices[i-1]:
-                s+=prices[i]-prices[i-1]
-        return s
+        def helper(ind,buy,dp):
+            if ind==len(prices):
+                return 0
+            if dp[ind][buy]!=-1:
+                return dp[ind][buy]
+            take=0
+            nottake=0
+            sell=0
+            notsell=0
+
+            if buy: #if buy==1 it means there are no stocks in hand which are bought
+                take= -(prices[ind])+helper(ind+1,0,dp)
+                nottake=helper(ind+1,1,dp)
+
+            else: 
+                #if stocks are bought then sell (sell,notsell)
+                sell=prices[ind]+helper(ind+1,1,dp)
+                notsell=helper(ind+1,0,dp)
+            dp[ind][buy]=max(take,nottake,sell,notsell)
+            return max(take,nottake,sell,notsell)
+        dp=[[-1 for _ in range(2)] for _ in range(len(prices))]
+        ans=helper(0,1,dp)
+        return ans
+
 
