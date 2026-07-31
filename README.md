@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
+| [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0788-rotated-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1092-shortest-common-supersequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -368,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0561-array-partition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
