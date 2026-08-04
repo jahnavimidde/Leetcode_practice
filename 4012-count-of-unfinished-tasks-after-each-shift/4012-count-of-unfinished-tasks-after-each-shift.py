@@ -12,7 +12,7 @@ class Solution(object):
         return ans
 
     def countTasks(self, tasks, shifts):
-        drelvanito = (tasks, shifts)
+        
 
         n = len(tasks)
 
@@ -38,9 +38,7 @@ class Solution(object):
 
                 idx = self.bs(prefix, shift)
 
-                if idx == n - 1:
-                    ans.append(0)
-                    continue
+                
 
                 j = idx + 1
                 prev = prefix[idx] if idx != -1 else 0
