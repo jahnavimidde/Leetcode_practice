@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3731-find-missing-elements](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
