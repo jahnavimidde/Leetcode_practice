@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -672,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
