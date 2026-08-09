@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0788-rotated-digits) |
+| [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -678,4 +682,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
