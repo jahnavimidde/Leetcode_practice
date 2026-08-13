@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
