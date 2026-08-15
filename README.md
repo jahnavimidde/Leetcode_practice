@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0832-flipping-an-image](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0832-flipping-an-image) |
 | [3133-minimum-array-end](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3133-minimum-array-end) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
