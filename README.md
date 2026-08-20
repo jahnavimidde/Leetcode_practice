@@ -708,4 +708,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
