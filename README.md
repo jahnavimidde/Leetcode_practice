@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2460-apply-operations-to-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1020-number-of-enclaves) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3110-score-of-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3110-score-of-a-string) |
 ## Binary Search
