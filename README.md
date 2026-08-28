@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0127-word-ladder) |
+| [0142-linked-list-cycle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0142-linked-list-cycle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0328-odd-even-linked-list) |
@@ -733,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
