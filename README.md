@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
