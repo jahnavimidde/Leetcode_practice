@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0788-rotated-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0788-rotated-digits) |
+| [0866-prime-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0866-prime-palindrome) |
 | [1140-stone-game-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -779,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1401-circle-and-rectangle-overlapping) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
