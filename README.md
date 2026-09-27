@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1980-find-unique-binary-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1020-number-of-enclaves) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/jahnavimidde/Leetcode_practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1901-find-a-peak-element-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1901-find-a-peak-element-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
