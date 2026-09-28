@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0763-partition-labels) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/1004-max-consecutive-ones-iii) |
