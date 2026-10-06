@@ -14,7 +14,7 @@ class Solution:
                 maxlen=max(maxlen,r-l+1)
                 r+=1
             else:
-                while (r-l+1)-max(char.values())>k:
+                if (r-l+1)-max(char.values())>k:
                     char[s[l]]-=1
                     l+=1
                 maxlen=max(maxlen,r-l+1)
