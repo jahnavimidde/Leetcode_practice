@@ -1,18 +1,29 @@
-class Solution(object):
-    def characterReplacement(self, s, k):
-        hash = {}
-        max_fre = 0
-        max_len = 0
-        l = 0
+class Solution:
+    def characterReplacement(self, s: str, k: int) -> int:
+        char={}
+        l=0
+        r=0
+        maxlen=0
+        n=len(s)
+        while r<n:
+            if s[r] not in char:
+                char[s[r]]=1
+            else:
+                char[s[r]]+=1
+            if ((r-l+1)-max(char.values()))<=k:
+                maxlen=max(maxlen,r-l+1)
+                r+=1
+            else:
+                while (r-l+1)-max(char.values())>k:
+                    char[s[l]]-=1
+                    l+=1
+                maxlen=max(maxlen,r-l+1)
+                r+=1
+        return maxlen
 
-        for r in range(len(s)):
-            hash[s[r]] = hash.get(s[r], 0) + 1
-            max_fre = max(max_fre, hash[s[r]])
 
-            if (r - l + 1) - max_fre > k:
-                hash[s[l]] -= 1
-                l += 1
 
-            max_len = max(max_len, r - l + 1)
 
-        return max_len
+    
+        
+        
