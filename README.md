@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0047-permutations-ii) |
+| [0059-spiral-matrix-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0085-maximal-rectangle) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/jahnavimidde/Leetcode_practice/tree/master/0412-fizz-buzz) |
